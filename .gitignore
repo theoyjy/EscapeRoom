@@ -54,6 +54,15 @@ Thumbs.db
 
 # Ignore Visual Studio Code settings
 .vscode/
+EscapeRoom.code-workspace
+.ignore
+
+# Ignore Visual Studio settings
+.vs/
+.vsconfig
+.editorconfig
+shadertoolsconfig.json
+EscapeRoom.sln
 
 # Ignore MacOS files
 .DS_Store
